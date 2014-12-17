@@ -1,0 +1,13 @@
+---
+innertitle: Ishrat & Navid
+layout: default
+modal-id: 13
+date: 2013-04-10
+img: ishrat.png
+category: testimonial
+taught: Taught them School Maths in Boston in 2009
+---
+
+Navid and I are indebted to all you have taught us. Everything you have done for our family has helped us so much. This September Navid will be starting high school at Malden Catholic and I will be starting my third year of high school at Bishop Fenwick. High school math has been a breeze for me thanks to you. I've been getting A+'s and A's and I am also ranking in the top three for my grade in math team. I took Honors Geometry freshman year, and Honors Algebra 2 sophomore year. Next year I will take Honors Pre calculus and hopefully I'll take AP Calculus senior year. My entire family appreciates everything you did for us.  
+
+<small>(excerpts from an email sent by Ishrat in June 2014)</small>

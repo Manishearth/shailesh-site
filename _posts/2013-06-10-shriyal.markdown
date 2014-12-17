@@ -1,0 +1,12 @@
+---
+innertitle: Shriyal Padte
+layout: default
+modal-id: 11
+date: 2013-06-10
+img: shriyal.jpg
+category: testimonial
+position: Sr. Software developer at Avanade
+taught: Taught him during his T Y B Sc Mathematics in 1985-86
+link: http://www.linkedin.com/pub/shriyal-padte/19/591/90
+---
+Shailesh has taught me many Math topics (Number theory/graph theory/algebra etc) at Graduate level as well as programming basics. It was very different approach with great results. His genuine interest and expertise in Math, software and in teaching is amazing.

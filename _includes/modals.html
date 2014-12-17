@@ -12,10 +12,27 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
+                            <h2>{{ post.innertitle }}</h2>
                             <hr class="star-primary">
+                            {% if post.categories contains 'offering' %}
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.innertitle }}">
+                            {% else %}
+                            <img src="img/testimonials/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.innertitle }}">
+                            {% endif %}
+                            {% if post.taught %}
+                                <li>
+                                    <strong>{{ post.taught }}
+                                    </strong>
+                                </li>
+                            {% endif %}
+                            {% if post.position %}
+                                <li>
+                                    <strong><a href="{{ post.link }}">{{ post.position }}</a>
+                                    </strong>
+                                </li>
+                            {% endif %}
                             <p>{{ post.content }}</p>
+
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

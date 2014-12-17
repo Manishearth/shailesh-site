@@ -2,7 +2,7 @@
 innertitle: Vedic Maths
 layout: default
 modal-id: 5
-date: 2014-04-20
+date: 2014-01-20
 img: circus.png
 category: offering
 ---

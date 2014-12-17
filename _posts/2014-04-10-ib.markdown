@@ -2,7 +2,7 @@
 innertitle: Specialized solutions for IB / IGCSE students
 layout: default
 modal-id: 4
-date: 2014-04-10
+date: 2014-01-30
 img: game.png
 category: offering
 

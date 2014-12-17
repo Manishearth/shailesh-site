@@ -1,0 +1,14 @@
+---
+innertitle: Hemang Nadkarni
+layout: default
+modal-id: 10
+date: 2013-06-20
+img: hemang.jpg
+category: testimonial
+position: Senior Software Architect, McAfee Inc, San Fransisco
+taught: Taught him basic concepts after his 10th, preparing for IIT – 1990 (AIR 24)
+link: http://www.linkedin.com/pub/hemang-nadkarni/0/2a0/a39
+---
+More than twenty years ago, as a teenager, I had the privilege to be tutored by Shailesh. As a testament to his love of both mathematics and of teaching, Shailesh offered to tutor me in the evenings - gratis. His only expectation was that I put in the requisite effort as a pupil. He lent me his old books, penned notes and exercises in beautiful ink. He sat with me late in the evenings, spending as much time as necessary to explain a topic. 
+
+At a critical juncture in my life, Shailesh introduced me to a new world of math, not of abstract symbols and mechanistic steps, but one of deeper meaning, elegance and beauty. The insights I gained from Shailesh's mentoring helped me ace the most competitive test I've ever taken - the IIT (joint entrance exam). But more importantly, it instilled in me a life-long love and appreciation of math. I shall forever remain indebted to him.
