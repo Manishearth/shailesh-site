@@ -1,0 +1,13 @@
+---
+innertitle: Head start 10th and future
+layout: default
+modal-id: 2
+date: 2014-01-20
+img: cabin.png
+category: offering
+---
+
+This is for students who are in the 8th or 9th. Maths will be taught at a more fundamental level, making it interesting with puzzles and games. The core concepts needed for 10th will be taught here. This will prepare them very well for the level expected in 10th and for further competitive tests. They will be able to quickly analyse the problems and be able to come up with intuitive solutions on their own. The earlier the analytical skills are developed, the more useful it is for the students.
+
+
+These sessions can be held in vacations or as per the group’s requirement.

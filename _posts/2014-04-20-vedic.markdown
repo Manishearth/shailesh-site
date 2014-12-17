@@ -1,0 +1,10 @@
+---
+innertitle: Vedic Maths
+layout: default
+modal-id: 5
+date: 2014-04-20
+img: circus.png
+category: offering
+---
+
+6 short 1-hour sessions explaining the basics of Vedic Maths

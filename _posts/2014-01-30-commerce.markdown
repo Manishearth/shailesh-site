@@ -1,0 +1,10 @@
+---
+innertitle: For Commerce students
+layout: default
+modal-id: 3
+date: 2014-01-30
+img: safe.png
+category: offering
+---
+
+Most commerce students find Maths and Statistics a necessary evil they have to get through.  In only a few sessions with commerce students, I can change this outlook.

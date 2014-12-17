@@ -1,0 +1,10 @@
+---
+innertitle: Specialized solutions for IB / IGCSE students
+layout: default
+modal-id: 4
+date: 2014-04-10
+img: game.png
+category: offering
+
+---
+My experience in teaching in the US give me a very good handle on how these courses are structured and what is expected from the students. It is quite different from regular coursework and I offer personalised training for such students.
