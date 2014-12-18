@@ -3,7 +3,7 @@ innertitle: Vedic Maths
 layout: default
 modal-id: 6
 date: 2014-01-10
-img: cake.png
+img: personal.png
 category: offering
 ---
 
