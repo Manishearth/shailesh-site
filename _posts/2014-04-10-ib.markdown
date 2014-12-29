@@ -7,4 +7,4 @@ img: ib.png
 category: offering
 
 ---
-My experience in teaching in the US give me a very good handle on how these courses are structured and what is expected from the students. It is quite different from regular coursework and I offer personalised training for such students.
+My experience in teaching in the US gave me a very good handle on how these courses are structured and what is expected from the students. It is quite different from regular coursework and I offer personalised training for such students.
